@@ -4,7 +4,12 @@
 
 🧙 Vergiss bitte nicht, dass unser Client in der absoluten Entwicklungsphase ist. Das heißt, er kann jederzeit abstürzen, einfrieren oder explodieren. Aber keine Sorge, wir arbeiten hart daran, ihn zu verbessern. Also hab Geduld und Humor, wenn etwas schief geht.
 
+#### Electron Client (Preview)
 ![image](https://github.com/CoffeeSpeak/.github/assets/31771657/6ba70ec5-e626-48c6-bd47-6be14edd62d2)
+
+#### Web Client
+![image](https://github.com/CoffeeSpeak/.github/assets/31771657/052796e9-45d0-4211-b008-2e8f63ebc52e)
+
 
 <!--
 
