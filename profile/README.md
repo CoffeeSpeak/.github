@@ -5,6 +5,9 @@
 🧙 Vergiss bitte nicht, dass unser Client in der absoluten Entwicklungsphase ist. Das heißt, er kann jederzeit abstürzen, einfrieren oder explodieren. Aber keine Sorge, wir arbeiten hart daran, ihn zu verbessern. Also hab Geduld und Humor, wenn etwas schief geht.
 <!--
 
+![image](https://github.com/CoffeeSpeak/.github/assets/31771657/6ba70ec5-e626-48c6-bd47-6be14edd62d2)
+
+
 **Here are some ideas to get you started:**
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
